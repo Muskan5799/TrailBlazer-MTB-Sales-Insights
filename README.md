@@ -31,25 +31,31 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
 
 ## 📁 Folder Structure
 
-**mountain-bike-sales-dashboard/**
+mountain-bike-sales-dashboard/
 ├── 📊 dashboard/
-
-│ ├── Advanture_Work_Project_final.pbix 
-│ └── mountain-bike-sales-dashboard.pbit 
+│ └── Mountain Bike Sales.pbix # Final Power BI report
 │
 ├── 📁 dataset/
-
+│ ├── AdventureWorks Sales Data 2020.csv
+│ ├── AdventureWorks Sales Data 2021.csv
 │ ├── AdventureWorks Sales Data 2022.csv
 │ ├── AdventureWorks Returns Data.csv
 │ ├── AdventureWorks Product Lookup.csv
 │ ├── AdventureWorks Product Categories Lookup.csv
-│ └── AdventureWorks Calendar Lookup.csv
+│ ├── AdventureWorks Product Subcategories Lookup.csv
+│ ├── AdventureWorks Calendar Lookup.csv
+│ ├── AdventureWorks Customer Lookup.csv
+│ ├── AdventureWorks Territory Lookup.csv
+│ └── Product Category Sales (Unpivot Demo).xlsx # Used for practice/demo
 │
 ├── 📁 assets/
+│ ├── dashboard-preview.png
+│ ├── sales-by-region.png
+│ └── mountain-bike-sales-dashboard.pdf
+│
+├── 📄 README.md
+└── 📄 LICENSE (optional)
 
-│ ├── dashboard-preview.png 
-│ ├── sales-by-region.png 
-│ └── mountain-bike-sales-dashboard.pdf 
 ---
 
 ## ✨ A Quick Look
