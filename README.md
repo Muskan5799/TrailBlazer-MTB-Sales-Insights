@@ -32,7 +32,7 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
 ## 📁 Folder Structure
 
 mountain-bike-sales-dashboard/
-├── dashboard/
+├── 
 │ ├── Advanture_Work_Project_final.pbix ← Main Power BI file
 │
 ├── dataset/
@@ -40,6 +40,7 @@ mountain-bike-sales-dashboard/
 │ ├── Returns Data
 │ ├── Product Lookup Tables
 │ └── Calendar Table
+
 │
 ├── assets/
 │ ├── dashboard-preview.png
