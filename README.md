@@ -54,7 +54,7 @@ mountain-bike-sales-dashboard/
 
 Here’s a preview of the full dashboard:
 
-![Dashboard Preview](assets/dashboard-preview.png)
+<img width="1257" height="717" alt="image" src="https://github.com/user-attachments/assets/b9a2c6fa-e895-4aad-a22c-f29a62330ff5" />
 
 And here’s the map view showing sales by region:
 
