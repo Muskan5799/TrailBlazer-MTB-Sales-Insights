@@ -47,15 +47,6 @@ mountain-bike-sales-dashboard/
 │ ├── AdventureWorks Customer Lookup.csv
 │ ├── AdventureWorks Territory Lookup.csv
 │ └── Product Category Sales (Unpivot Demo).xlsx # Used for practice/demo
-│
-├── 📁 assets/
-│ ├── dashboard-preview.png
-│ ├── sales-by-region.png
-│ └── mountain-bike-sales-dashboard.pdf
-│
-├── 📄 README.md
-└── 📄 LICENSE (optional)
-
 ---
 
 ## ✨ A Quick Look
