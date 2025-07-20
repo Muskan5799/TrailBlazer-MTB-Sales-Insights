@@ -32,12 +32,13 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
 ## 📁 Folder Structure
 
 **mountain-bike-sales-dashboard/**
+├── 📊 dashboard/
 
-**├── 📊 dashboard/
 │ ├── Advanture_Work_Project_final.pbix 
 │ └── mountain-bike-sales-dashboard.pbit 
 │
 ├── 📁 dataset/
+
 │ ├── AdventureWorks Sales Data 2022.csv
 │ ├── AdventureWorks Returns Data.csv
 │ ├── AdventureWorks Product Lookup.csv
@@ -45,9 +46,10 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
 │ └── AdventureWorks Calendar Lookup.csv
 │
 ├── 📁 assets/
+
 │ ├── dashboard-preview.png 
 │ ├── sales-by-region.png 
-│ └── mountain-bike-sales-dashboard.pdf **
+│ └── mountain-bike-sales-dashboard.pdf 
 ---
 
 ## ✨ A Quick Look
