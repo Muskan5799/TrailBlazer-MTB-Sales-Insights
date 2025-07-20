@@ -33,7 +33,7 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
 
 **mountain-bike-sales-dashboard/**
 
-├── 📊 dashboard/
+**├── 📊 dashboard/
 │ ├── Advanture_Work_Project_final.pbix 
 │ └── mountain-bike-sales-dashboard.pbit 
 │
@@ -47,7 +47,7 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
 ├── 📁 assets/
 │ ├── dashboard-preview.png 
 │ ├── sales-by-region.png 
-│ └── mountain-bike-sales-dashboard.pdf 
+│ └── mountain-bike-sales-dashboard.pdf **
 ---
 
 ## ✨ A Quick Look
