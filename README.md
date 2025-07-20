@@ -32,22 +32,21 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
 ## 📁 Folder Structure
 
 mountain-bike-sales-dashboard/
-├── 
-│ ├── Advanture_Work_Project_final.pbix ← Main Power BI file
+├── 📊 dashboard/
+│ ├── Advanture_Work_Project_final.pbix 
+│ └── mountain-bike-sales-dashboard.pbit 
 │
-├── dataset/
-│ ├── Sales Data
-│ ├── Returns Data
-│ ├── Product Lookup Tables
-│ └── Calendar Table
-
+├── 📁 dataset/
+│ ├── AdventureWorks Sales Data 2022.csv
+│ ├── AdventureWorks Returns Data.csv
+│ ├── AdventureWorks Product Lookup.csv
+│ ├── AdventureWorks Product Categories Lookup.csv
+│ └── AdventureWorks Calendar Lookup.csv
 │
-├── assets/
-│ ├── dashboard-preview.png
-│ ├── sales-by-region.png
-│ └── mountain-bike-sales-dashboard.pdf
-│
-└── README.md
+├── 📁 assets/
+│ ├── dashboard-preview.png 
+│ ├── sales-by-region.png 
+│ └── mountain-bike-sales-dashboard.pdf 
 ---
 
 ## ✨ A Quick Look
@@ -60,25 +59,29 @@ mountain-bike-sales-dashboard/
 
 <img width="1255" height="721" alt="image" src="https://github.com/user-attachments/assets/ddafc698-78fa-430c-bd00-d52dfe6224d4" />
 
-Want to explore the full report?  
+## Want to explore the full report?  
 📄 [Click here to view the full dashboard as PDF](a
 ---
 
 ## 🧮 Sample DAX Logic
 
 ```DAX
--- Profit Margin (%)
+-- Total Revenue
+Total Revenue = SUM('AdventureWorks Sales Data 2022'[Revenue])
+
+-- Total Orders
+Total Orders = COUNTROWS('AdventureWorks Sales Data 2022')
+
+-- Profit Margin %
 Profit Margin % = 
 DIVIDE(
-    [Total Revenue] - [Total Cost], 
+    [Total Revenue] - SUM('AdventureWorks Sales Data 2022'[Total_Cost]), 
     [Total Revenue]
 )
 
 -- Return Rate
 Return Rate = 
 DIVIDE(
-    SUM('Returns Data'[Return Qty]), 
+    SUM('AdventureWorks Returns Data'[Return Quantity]), 
     [Total Orders]
 )
-
-
