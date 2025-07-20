@@ -31,7 +31,8 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
 
 ## 📁 Folder Structure
 
-mountain-bike-sales-dashboard/
+**mountain-bike-sales-dashboard/**
+
 ├── 📊 dashboard/
 │ ├── Advanture_Work_Project_final.pbix 
 │ └── mountain-bike-sales-dashboard.pbit 
