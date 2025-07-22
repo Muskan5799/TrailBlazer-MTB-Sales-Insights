@@ -48,11 +48,7 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
     - `AdventureWorks Customer Lookup.csv`
     - `AdventureWorks Territory Lookup.csv`
     - `Product Category Sales (Unpivot Demo).xlsx` – Used for practice/demo
-  - 📁 `assets/`
-    - `dashboard-preview.png`
-    - `sales-by-region.png`
-    - `mountain-bike-sales-dashboard.pdf`
----
+  ---
 
 ## ✨ A Quick Look
 
