@@ -5,7 +5,8 @@ This is a Power BI dashboard I created to analyze **Mountain Bike Sales** using 
 
 It’s a hands-on portfolio project built to show my skills in **data visualization, DAX, and business analysis.**
 
-![Uploading Dowhill MTB _ 7 Mẹo để đi nhanh hơn với trọng lực.jpg…]()
+[![Uploading Dowhill MTB _ 7 Mẹo để đi nhanh hơn với trọng lực.jpg…]()](https://github.com/your-username/your-repo-name/blob/main/downhill-mtb.jpg?raw=true
+)
 
 ---
 
