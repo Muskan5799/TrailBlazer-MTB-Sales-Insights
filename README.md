@@ -4,6 +4,7 @@ Hi there! 👋
 This is a Power BI dashboard I created to analyze **Mountain Bike Sales** using the AdventureWorks dataset (2020–2022). It includes interactive visuals, performance KPIs, and regional insights to help understand how bike sales are trending over time — and where improvements can be made.
 
 It’s a hands-on portfolio project built to show my skills in **data visualization, DAX, and business analysis.**
+![Uploading images (2).jpg…]()
 
 ---
 
