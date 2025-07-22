@@ -64,8 +64,6 @@ All the visuals are interactive with slicers for **year**, **month**, **continen
 
 <img width="1255" height="721" alt="image" src="https://github.com/user-attachments/assets/ddafc698-78fa-430c-bd00-d52dfe6224d4" />
 
-## Want to explore the full report?  
-📄 [Click here to view the full dashboard as PDF](a
 ---
 
 ## 🧮 Sample DAX Logic
