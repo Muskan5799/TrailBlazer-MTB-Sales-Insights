@@ -1,4 +1,4 @@
-# 🚴 Mountain Bike Sales Dashboard | Power BI Project
+#TrailBlazer: Mountain Bike Sales Performance 
 
 ## 📖 Project Overview  
 
