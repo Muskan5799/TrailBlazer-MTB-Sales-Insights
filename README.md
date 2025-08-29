@@ -1,9 +1,12 @@
 # 🚴 Mountain Bike Sales Dashboard | Power BI Project
 
-Hi there! 👋  
-This is a Power BI dashboard I created to analyze **Mountain Bike Sales** using the AdventureWorks dataset (2020–2022). It includes interactive visuals, performance KPIs, and regional insights to help understand how bike sales are trending over time — and where improvements can be made.
+## 📖 Project Overview  
 
-It’s a hands-on portfolio project built to show my skills in **data visualization, DAX, and business analysis.**
+This project features an interactive **Power BI dashboard** analyzing sales data for **AdventureWorks**, a global retail company.  
+The dashboard provides insights into revenue, profit, orders, returns, customer demographics, and product performance.  
+It highlights my ability to design dynamic visualizations and extract actionable insights to support data-driven business decisions.  
+
+**
 
 ![Dowhill MTB _ 7 Mẹo để đi nhanh hơn với trọng lực](https://github.com/user-attachments/assets/85c03dd0-7ff7-4c8f-9705-ceae10375f50)
 
