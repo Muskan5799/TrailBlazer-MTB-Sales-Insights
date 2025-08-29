@@ -91,4 +91,19 @@ Here’s the schema used in the dashboard:
  #### Time Trends
 •	Sales and revenue peaked at the start and end of each year, highlighting ideal periods for promotions and campaigns.                                    
 
+## Customer & Marketing Recommendations
+ #### Customer Segmentation
+•	Target High-Spending Segments: Prioritize Middle Class and Upper Middle Class customers who consistently contribute the highest revenue.         
+•	Age-Based Marketing: Design campaigns tailored for 30–45 age groups, who show strong purchasing power in bike and accessory categories.           
+•	Family-Oriented Offers: Leverage parental status segmentation with family bundles (e.g., adult + kids bikes, safety accessories).            
+#### Marketing Strategy
+•	Personalized Campaigns: Use demographic and income insights to create tailored ads and promotions that resonate with specific groups.             
+•	Loyalty Programs: Reward repeat buyers with discounts, early access to new models, or exclusive bundles to strengthen retention.          
+•	Cross-Selling Opportunities: Promote accessories (helmets, gloves, bags) alongside bike sales to increase average order value.          
+#### Customer Experience
+•	Reduce Return Rates: Provide clear sizing guides, detailed product descriptions, and improved after-sales support, especially for Clothing in North America.            
+•	Omni-Channel Engagement: Ensure consistency in promotions across online and in-store channels for a seamless customer journey.
+•	Customer Feedback Loop: Collect and analyze reviews/feedback to refine product design and improve service.               
+
+
 
