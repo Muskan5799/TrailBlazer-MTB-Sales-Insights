@@ -10,57 +10,27 @@ It provides insights into revenue trends, profit margins, sales by category, and
 The dashboard also highlights top-performing products and tracks overall business performance.
 It enables stakeholders to make data-driven decisions to improve sales strategy and profitability.
 
-![Dowhill MTB _ 7 Mẹo để đi nhanh hơn với trọng lực](https://github.com/user-attachments/assets/85c03dd0-7ff7-4c8f-9705-ceae10375f50)
+## Tools & Skills
 
----
+# Tools:
 
-## 🔍 What You’ll Find in This Dashboard
+Power BI → Data visualization & dashboard creation
 
-- 📦 **Total Orders** by product category
-- 💰 **Total Revenue** and **Profit Margin (%)**
-- 🔁 **Return Rate** to track product issues
-- 📈 **Monthly Revenue Trends** (great for seasonality!)
-- 🏆 A look at the **Top 10 products by revenue**
-- 🌍 A **map view** of sales by continent and country
+Microsoft Excel → Data cleaning & preprocessing
 
-All the visuals are interactive with slicers for **year**, **month**, **continent**, and **product category**.
+# Skills Applied:
 
----
+Data Cleaning & Transformation
 
-## 🧰 Tools Used
+DAX Calculations (KPIs & Measures)
 
-- **Power BI Desktop** – for all dashboard creation
-- **DAX** – to calculate custom KPIs like profit margin and return rate
-- **Excel / CSV** – for initial data cleanup
-- **AdventureWorks** – as the main dataset (open-source)
+Data Modeling & Relationships
 
----
+Interactive Dashboard Design
 
-## 📁 Folder Structure
+Sales & Profitability Analysis
 
-## 📁 Folder Structure
-
-- `mountain-bike-sales-dashboard/`
-  - 📊 `dashboard/`
-    - `Mountain Bike Sales.pbix` – Final Power BI report
-  - 📁 `dataset/`
-    - `AdventureWorks Sales Data 2020.csv`
-    - `AdventureWorks Sales Data 2021.csv`
-    - `AdventureWorks Sales Data 2022.csv`
-    - `AdventureWorks Returns Data.csv`
-    - `AdventureWorks Product Lookup.csv`
-    - `AdventureWorks Product Categories Lookup.csv`
-    - `AdventureWorks Product Subcategories Lookup.csv`
-    - `AdventureWorks Calendar Lookup.csv`
-    - `AdventureWorks Customer Lookup.csv`
-    - `AdventureWorks Territory Lookup.csv`
-    - `Product Category Sales (Unpivot Demo).xlsx` – Used for practice/demo
-  ---
-
-## ✨ A Quick Look
-
-#### Here’s a preview of the full dashboard:
-
+Business Insights & Reporting
 <img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/8a527b3b-ec89-47b6-bebe-692903af6eb4" />
 
 #### And here’s the map view showing sales by region:
