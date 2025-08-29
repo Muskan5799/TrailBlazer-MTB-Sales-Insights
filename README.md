@@ -50,11 +50,29 @@ Here’s the schema used in the dashboard:
 <img width="1255" height="721" alt="image" src="https://github.com/user-attachments/assets/ddafc698-78fa-430c-bd00-d52dfe6224d4" />
 
 ---
-## Key Highlights
-•	Revenue Growth: Consistent increase across 2020–2022, peaking at $1.83M in Jan 2022.                   
-•	Profitability: Strong profit margin of $1.046M, reflecting efficient operations.                             
-•	Top-Selling Products: Mountain bikes dominate sales, with Mountain-200 Black (Size 46) leading at $1.24M.                           
-•	Category Performance: Accessories generate the highest order volume, followed by bikes and clothing.                          
-•	Customer Returns: Low return rate of 2.17% indicates high customer satisfaction.                                 
-•	Order Trends: Over 25K orders with visible seasonal spikes, especially in early and late quarters.                                        
+## Key Features 
+•	Integrated Sales Data: Consolidated three years of data (2020–2022) into a single, reliable dataset.
+•	Interactive Exploration: Dynamic slicers, filters, and visuals to analyze sales by product, region, and category.
+•	Advanced Metrics: Custom DAX measures for profit margin, return rate, total cost, quantity, and revenue.
+•	Geographical Analysis: Country- and continent-level insights into orders, revenue, and profitability.
+•	Time Intelligence: Calendar table with monthly, quarterly, and yearly trend analysis.
+•	Customer Insights: Segmentation by income level, age group, and parental status for deeper understanding.
+•	Product Category Insights: Detailed analysis of Bikes, Accessories, and Clothing — including order patterns and return behavior.
+•	Branded Design: Custom color palette and visuals aligned with Adventure Works’ theme and identity.
+
+##  Key Visuals
+•	Revenue Trend Line Chart – Monthly sales & profit growth.
+•	Category Breakdown Donut Chart – Orders split into Accessories, Bikes, Clothing.
+•	Top 10 Products Table – Revenue, Orders, Profit Margin %, Return Rate.
+•	KPI Cards – At-a-glance performance metrics.
+•	Interactive Filters – Year & Month slicers for flexible analysis.
+
+##  Key Highlights
+•	 Total Revenue: $24.91M (2020–2022).
+•	 Profit Margin: $1.046M achieved.
+•	Orders: 25K+ processed across 3 years.
+•	 Revenue Growth: $0.59M in Jan 2020 → $1.83M in Jan 2022.
+•	 Return Rate: Only 2.17% (high customer satisfaction).
+•	 Top Product: Mountain-200 Black (Size 46) with $1.24M revenue.
+
 
