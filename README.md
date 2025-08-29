@@ -41,15 +41,7 @@ Here’s the schema used in the dashboard:
 - Standardized data types—ensured dates, currency, and text fields were correctly formatted for analysis.              
 - Unified category labels (e.g., “MTB” standardized to “Mountain Bike”) to avoid filter mismatches.
 - Created calculated fields such as Profit = Sales - Cost and Average Order Value = Revenue / Orders to support core metrics.                      
-
-
-
-
-
-
-
-
-
+## DASHBOARD
 
 <img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/8a527b3b-ec89-47b6-bebe-692903af6eb4" />
 
