@@ -35,6 +35,12 @@ This star-schema structure enables efficient **data modeling, relationships, and
 #### Data Model (Schema)  
 Here’s the schema used in the dashboard:  
 
+## Data Cleaning Process
+- Removed redundant fields like GUIDs and internal system codes to streamline the dataset.              
+- Addressed missing values across key tables (Customer, Product, Sales) by either imputing or excluding based on relevance.                
+- Standardized data types—ensured dates, currency, and text fields were correctly formatted for analysis.              
+- Unified category labels (e.g., “MTB” standardized to “Mountain Bike”) to avoid filter mismatches.
+- Created calculated fields such as Profit = Sales - Cost and Average Order Value = Revenue / Orders to support core metrics.                      
 
 
 
