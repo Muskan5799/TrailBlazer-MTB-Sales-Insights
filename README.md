@@ -32,7 +32,7 @@ The dataset is organized into **fact and dimension tables** to support analysis 
 
 This star-schema structure enables efficient **data modeling, relationships, and KPI calculations** within Power BI, ensuring accurate and interactive dashboard insights.
 
-### 🗂 Data Model (Schema)  
+#### Data Model (Schema)  
 Here’s the schema used in the dashboard:  
 
 
