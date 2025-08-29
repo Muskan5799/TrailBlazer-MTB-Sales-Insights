@@ -2,6 +2,7 @@
 Power BI dashboard analyzing mountain bike sales (2020–2022), with insights on revenue, profit margin, orders, and return rates.
 ![Uploading ChatGPT Image Aug 29, 2025, 04_24_15 PM.png…]()
 
+
  ## Overview  
 
 This project analyzes mountain bike sales data (2020–2022) and presents it through an interactive Power BI dashboard.
