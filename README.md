@@ -50,26 +50,11 @@ Here’s the schema used in the dashboard:
 <img width="1255" height="721" alt="image" src="https://github.com/user-attachments/assets/ddafc698-78fa-430c-bd00-d52dfe6224d4" />
 
 ---
+## Key Highlights
+•	Revenue Growth: Consistent increase across 2020–2022, peaking at $1.83M in Jan 2022.
+•	Profitability: Strong profit margin of $1.046M, reflecting efficient operations.
+•	Top-Selling Products: Mountain bikes dominate sales, with Mountain-200 Black (Size 46) leading at $1.24M.
+•	Category Performance: Accessories generate the highest order volume, followed by bikes and clothing.
+•	Customer Returns: Low return rate of 2.17% indicates high customer satisfaction.
+•	Order Trends: Over 25K orders with visible seasonal spikes, especially in early and late quarters.
 
-## 🧮 Sample DAX Logic
-
-```DAX
--- Total Revenue
-Total Revenue = SUM('AdventureWorks Sales Data 2022'[Revenue])
-
--- Total Orders
-Total Orders = COUNTROWS('AdventureWorks Sales Data 2022')
-
--- Profit Margin %
-Profit Margin % = 
-DIVIDE(
-    [Total Revenue] - SUM('AdventureWorks Sales Data 2022'[Total_Cost]), 
-    [Total Revenue]
-)
-
--- Return Rate
-Return Rate = 
-DIVIDE(
-    SUM('AdventureWorks Returns Data'[Return Quantity]), 
-    [Total Orders]
-)
