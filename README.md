@@ -14,7 +14,6 @@ It enables stakeholders to make data-driven decisions to improve sales strategy 
 
 #### Tools:
 •	Power BI → Data visualization & dashboard creation
-
 •	Microsoft Excel → Data cleaning & preprocessing
 #### Skills Applied:
 •	Data Cleaning & Transformation
