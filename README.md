@@ -1,7 +1,7 @@
 # TrailBlazer: Mountain Bike Sales Performance 
 Power BI dashboard analyzing mountain bike sales (2020–2022), with insights on revenue, profit margin, orders, and return rates.
-![Uploading ChatGPT Image Aug 29, 2025, 04_24_15 PM.png…]()
 
+<img width="1536" height="1024" alt="mountain_bike_logo_resized" src="https://github.com/user-attachments/assets/383164b2-135e-4a32-8832-26eb1fb4f494" />
 
  ## Overview  
 
