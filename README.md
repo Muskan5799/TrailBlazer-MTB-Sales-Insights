@@ -3,11 +3,12 @@ Power BI dashboard analyzing mountain bike sales (2020–2022), with insights on
 
 ![WhatsApp Image 2025-08-29 at 11 45 16 AM](https://github.com/user-attachments/assets/49ac2a0b-8c7d-4b0f-83c0-d19761adc2fb)
 
- Overview  
+ ## Overview  
 
-This project features an interactive **Power BI dashboard** analyzing sales data for **AdventureWorks**, a global retail company.  
-The dashboard provides insights into revenue, profit, orders, returns, customer demographics, and product performance.  
-It highlights my ability to design dynamic visualizations and extract actionable insights to support data-driven business decisions.  
+This project analyzes mountain bike sales data (2020–2022) and presents it through an interactive Power BI dashboard.
+It provides insights into revenue trends, profit margins, sales by category, and return rates.
+The dashboard also highlights top-performing products and tracks overall business performance.
+It enables stakeholders to make data-driven decisions to improve sales strategy and profitability.
 
 ![Dowhill MTB _ 7 Mẹo để đi nhanh hơn với trọng lực](https://github.com/user-attachments/assets/85c03dd0-7ff7-4c8f-9705-ceae10375f50)
 
