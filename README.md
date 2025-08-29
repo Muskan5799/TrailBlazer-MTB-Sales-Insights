@@ -13,16 +13,15 @@ It enables stakeholders to make data-driven decisions to improve sales strategy 
 ## Tools & Skills
 
 #### Tools:
-Power BI → Data visualization & dashboard creation
-Microsoft Excel → Data cleaning & preprocessing
-
+•	Power BI → Data visualization & dashboard creation
+•	Microsoft Excel → Data cleaning & preprocessing
 #### Skills Applied:
-Data Cleaning & Transformation
-DAX Calculations (KPIs & Measures)
-Data Modeling & Relationships
-Interactive Dashboard Design
-Sales & Profitability Analysis
-Business Insights & Reporting
+•	Data Cleaning & Transformation
+•	DAX Calculations (KPIs & Measures)
+•	Data Modeling & Relationships
+•	Interactive Dashboard Design
+•	Sales & Profitability Analysis
+•	Business Insights & Reporting
 
 <img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/8a527b3b-ec89-47b6-bebe-692903af6eb4" />
 
