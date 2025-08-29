@@ -19,10 +19,10 @@ It enables stakeholders to make data-driven decisions to improve sales strategy 
 #### Skills Applied:
 •	Data Cleaning & Transformation          
 •	DAX Calculations (KPIs & Measures)          
-•	Data Modeling & Relationships
-•	Interactive Dashboard Design
-•	Sales & Profitability Analysis
-•	Business Insights & Reporting
+•	Data Modeling & Relationships                 
+•	Interactive Dashboard Design                        
+•	Sales & Profitability Analysis                       
+•	Business Insights & Reporting                          
 
 <img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/8a527b3b-ec89-47b6-bebe-692903af6eb4" />
 
