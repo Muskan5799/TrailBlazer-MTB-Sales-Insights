@@ -51,10 +51,10 @@ Here’s the schema used in the dashboard:
 
 ---
 ## Key Highlights
-•	Revenue Growth: Consistent increase across 2020–2022, peaking at $1.83M in Jan 2022.
-•	Profitability: Strong profit margin of $1.046M, reflecting efficient operations.
-•	Top-Selling Products: Mountain bikes dominate sales, with Mountain-200 Black (Size 46) leading at $1.24M.
-•	Category Performance: Accessories generate the highest order volume, followed by bikes and clothing.
-•	Customer Returns: Low return rate of 2.17% indicates high customer satisfaction.
-•	Order Trends: Over 25K orders with visible seasonal spikes, especially in early and late quarters.
+•	Revenue Growth: Consistent increase across 2020–2022, peaking at $1.83M in Jan 2022.                   
+•	Profitability: Strong profit margin of $1.046M, reflecting efficient operations.                             
+•	Top-Selling Products: Mountain bikes dominate sales, with Mountain-200 Black (Size 46) leading at $1.24M.                           
+•	Category Performance: Accessories generate the highest order volume, followed by bikes and clothing.                          
+•	Customer Returns: Low return rate of 2.17% indicates high customer satisfaction.                                 
+•	Order Trends: Over 25K orders with visible seasonal spikes, especially in early and late quarters.                                        
 
