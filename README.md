@@ -33,8 +33,8 @@ The dataset is organized into **fact and dimension tables** to support analysis 
 This star-schema structure enables efficient **data modeling, relationships, and KPI calculations** within Power BI, ensuring accurate and interactive dashboard insights.
 
 #### Data Model (Schema)  
-Here’s the schema used in the dashboard:  
-
+<img width="1138" height="545" alt="image" src="https://github.com/user-attachments/assets/2517f530-b259-4ad1-924b-37c41dcc092c" />
+  
 ## Data Cleaning Process
 - Removed redundant fields like GUIDs and internal system codes to streamline the dataset.              
 - Addressed missing values across key tables (Customer, Product, Sales) by either imputing or excluding based on relevance.                
@@ -44,10 +44,6 @@ Here’s the schema used in the dashboard:
 ## DASHBOARD
 
 <img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/8a527b3b-ec89-47b6-bebe-692903af6eb4" />
-
-#### And here’s the map view showing sales by region:
-
-<img width="1255" height="721" alt="image" src="https://github.com/user-attachments/assets/ddafc698-78fa-430c-bd00-d52dfe6224d4" />
 
 ---
 ## Key Features 
