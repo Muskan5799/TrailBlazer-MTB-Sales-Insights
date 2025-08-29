@@ -6,8 +6,6 @@ This project features an interactive **Power BI dashboard** analyzing sales data
 The dashboard provides insights into revenue, profit, orders, returns, customer demographics, and product performance.  
 It highlights my ability to design dynamic visualizations and extract actionable insights to support data-driven business decisions.  
 
-**
-
 ![Dowhill MTB _ 7 Mẹo để đi nhanh hơn với trọng lực](https://github.com/user-attachments/assets/85c03dd0-7ff7-4c8f-9705-ceae10375f50)
 
 ---
