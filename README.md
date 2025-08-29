@@ -77,18 +77,18 @@ Here’s the schema used in the dashboard:
 
 ## Top Insights
  #### Product Performance
-•	Mountain-200 bicycle series led both in revenue and order volume.
-•	Products with higher profit margins had fewer returns, especially in Europe.
+•	Mountain-200 bicycle series led both in revenue and order volume.                  
+•	Products with higher profit margins had fewer returns, especially in Europe.                    
 #### Regional Insights
-•	Europe achieved the highest sales with the lowest return rates.
-•	North America sold many Road-250 bikes but faced higher returns compared to Europe.
+•	Europe achieved the highest sales with the lowest return rates.             
+•	North America sold many Road-250 bikes but faced higher returns compared to Europe.                
  #### Category Breakdown
-•	Accessories (helmets, bags, etc.) recorded the highest order volume.
-•	Clothing had the lowest sales and the highest return rate (~4.4%).
+•	Accessories (helmets, bags, etc.) recorded the highest order volume.                  
+•	Clothing had the lowest sales and the highest return rate (~4.4%).                
  #### Customer Analysis
-•	Segmentation by age and income revealed clear targeting opportunities.
-•	Middle Class and Upper Middle Class customers contributed the highest spending.
- Time Trends
-•	Sales and revenue peaked at the start and end of each year, highlighting ideal periods for promotions and campaigns.
+•	Segmentation by age and income revealed clear targeting opportunities.                        
+•	Middle Class and Upper Middle Class customers contributed the highest spending.                                 
+ #### Time Trends
+•	Sales and revenue peaked at the start and end of each year, highlighting ideal periods for promotions and campaigns.                                    
 
 
