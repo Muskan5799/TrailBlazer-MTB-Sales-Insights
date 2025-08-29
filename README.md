@@ -22,7 +22,26 @@ It enables stakeholders to make data-driven decisions to improve sales strategy 
 •	Data Modeling & Relationships                 
 •	Interactive Dashboard Design                        
 •	Sales & Profitability Analysis                       
-•	Business Insights & Reporting                          
+•	Business Insights & Reporting  
+
+## Data Sources
+
+The dataset is organized into **fact and dimension tables** to support analysis and reporting:            
+**Fact Tables** → Sales, Internet Sales, Reseller Sales                         
+**Dimension Tables** → Products, Customers, Date, Geography, Sales Territories
+
+This star-schema structure enables efficient data modeling, relationships, and KPI calculations within Power BI, ensuring accurate and interactive dashboard insights.
+
+
+
+
+
+
+
+
+
+
+
 
 <img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/8a527b3b-ec89-47b6-bebe-692903af6eb4" />
 
