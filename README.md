@@ -1,4 +1,4 @@
-##TrailBlazer: Mountain Bike Sales Performance 
+## TrailBlazer: Mountain Bike Sales Performance 
 
 ## 📖 Project Overview  
 
