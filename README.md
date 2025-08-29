@@ -1,5 +1,5 @@
 ## TrailBlazer: Mountain Bike Sales Performance 
-
+Power BI dashboard analyzing mountain bike sales (2020–2022), with insights on revenue, profit margin, orders, and return rates.
 ## 📖 Project Overview  
 
 This project features an interactive **Power BI dashboard** analyzing sales data for **AdventureWorks**, a global retail company.  
